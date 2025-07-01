@@ -2,7 +2,7 @@
 
 
 
-<img src="React JS Restaurant Website Img.jpg" alt="React JS Restaurant Website" />
+
 
 
 
